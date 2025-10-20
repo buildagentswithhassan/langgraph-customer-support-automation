@@ -1,0 +1,21 @@
+[project]
+name = "langgraph-workflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.117.1",
+    "google-api-python-client>=2.183.0",
+    "google-auth-oauthlib>=1.2.2",
+    "httpx>=0.28.1",
+    "langchain-cohere>=0.4.6",
+    "langchain-community>=0.3.29",
+    "langchain-google-genai>=2.1.12",
+    "langchain-mcp-adapters>=0.1.10",
+    "langchain-pinecone>=0.2.12",
+    "langchain[openai]>=0.3.27",
+    "langgraph>=0.6.7",
+    "python-dotenv>=1.1.1",
+    "uvicorn>=0.37.0",
+]
