@@ -16,7 +16,8 @@ Customer support operations often become a significant overhead for businesses, 
 
 ## Architecture
 
-<img width="1671" height="969" alt="langgraph-agent-customer-support-automation" src="https://github.com/user-attachments/assets/b91df27b-2f00-4be6-b7f1-bf7a86226278" />
+<img width="1671" height="969" alt="langgraph-agent-customer-support-automation" src="https://github.com/user-attachments/assets/4d751bf3-eb55-4dd7-b922-512a7a7889e6" />
+
 
 ### Core Components
 
